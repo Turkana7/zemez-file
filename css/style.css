@@ -1,0 +1,149 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+    #main{
+    width: 100%;
+    min-height: 900px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    
+}
+.header{
+    width: 90%;
+    min-height: 150px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    position: relative;
+    margin: 25px;
+    margin-left: 20px;
+}
+.zemez{
+    width: 150px;
+    min-height: 46px;
+    background-color: #4F77CF;
+    float: left;
+    border-radius: 63px;
+    position: relative;
+    left: 40px;
+    top: 45px;
+
+}
+.zemez a{
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 19px;
+    position: relative;
+    top: 5px
+    
+}
+.header i{
+    color:#642ca0;
+    box-sizing: border-box;
+    align-items: center;
+    position: relative;
+    left: 250px;
+    top: 35px;
+}
+.header span{
+    color: rgb(26, 24, 24);
+    text-align: center;
+    position: relative;
+    left:260px;
+    top: 35px;
+    font-size: 60px;
+    font-family:  'Arial Narrow Bold', sans-serif;
+}
+.header span{
+    
+}
+.center{
+    width: 90%;
+    min-height: 500px;
+   background-color: rgb(255, 255, 255);
+    float: left;
+    position: relative;
+    left: 20px;
+}
+.center i{
+    color: #c7b9d6;
+    position: relative;
+    top: -510px;
+    left: 285px;
+}
+.center span{
+    font-size: 24px;
+    position: relative;
+    left: 288px;
+    top: -512px;
+    color: #c7b9d6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.teq1 span{
+    font-size: 10px;
+    float: left;
+    position: relative;
+    left: 297px;
+    top: -363px;
+    color: #c7b9d6;
+}
+.teq2 span{
+    font-size: 10px;
+    float: left;
+    position: relative;
+    top: -375px;
+    left: 351px;
+    color: #c7b9d6;
+}
+.teq3 span{
+    font-size: 10px;
+    float: left;
+    position: relative;
+    top: -386px;
+    left: 436px;
+    color: #c7b9d6; 
+}
+.teq4 span{
+    font-size: 10px;
+    float: left;
+    position: relative;
+    top: -398px;
+    left: 485px;
+   color:  #c7b9d6;
+}
+.center a{
+    text-decoration: none;
+}
+#musicButton i{
+    color: #c7b9d6;
+    position: absolute;
+    z-index: 999999;
+}
+#musicButton{
+  position: relative;
+  background-color: transparent;
+  top: 554px;
+  left:-930px ;
+  width: 30px;
+  min-height: 30px;
+  border: none;
+}
+.hr{
+    font-size: 25px;
+    width: 560px;
+    margin-left: 42px;
+    background-color:#c7b9d6 ;
+
+}
+#musicButton pre{
+   color:#c7b9d6 ;
+   /* margin-left: 40px; */
+   float: left;
+   margin-top: -20px;
+   margin-left: 30px;
+}
